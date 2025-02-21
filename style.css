@@ -172,3 +172,32 @@ button {
     margin-top: 1em;
 }
 
+.call-to-action {
+    margin: 6em 0;
+    display: flex;
+    justify-content: center;
+}
+
+.blue-background {
+    background-color: #3882f6;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    line-height: 1.5;
+    padding: 0 8em;
+    height: 140px;
+    width: 75%;
+}
+
+.button2 {
+    border: 2px solid whitesmoke;
+    display: block;
+}
+
+.text-call > p:first-child {
+    font-size: large;
+    font-weight: bold;
+}
+
