@@ -59,10 +59,12 @@ button {
     background-color: #3882f6;
     color: #F9FAF8;
     font-weight: bolder;
-    padding:8px 24px;
+    padding: 8px 32px;
     border-radius: 10px;
     border-style: none;
 }
+
+
 
 .sign-up h1 {
     font-size: 48px;
