@@ -3,7 +3,7 @@
 A simple, responsive landing page built using HTML and CSS as part of [The Odin Project](https://www.theodinproject.com/).
 
 ## 🚀 Live Demo
-[Live Demo](#) ()
+[Live Demo](#) (https://vazquezcuervo.github.io/landing-page/)
 
 ## 📌 Features
 - Responsive layout with Flexbox
