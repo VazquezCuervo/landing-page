@@ -22,7 +22,7 @@ A simple, responsive landing page built using HTML and CSS as part of [The Odin 
    git clone https://github.com/VazquezCuervo/landing-page.git
 
 2. Navigate to the project folder:
-    gicd landing-page
+    git cd landing-page
 
 3.  Open index.html in your browser.
 
